@@ -1,0 +1,1 @@
+resimler google'dan alınmış olup projede kullanılacağı ve kamuoyuna açık (public) bir şekilde kullanımayacağı ve yayınlanmayacağı için sadece test olarak kullanıldığından dolayı  telif haklarına dikkat edilmemektedir. Bir sorun olduğunu düşünüyorsanız iletişime geçmekten çekinmeyin. Teşekkürler.
