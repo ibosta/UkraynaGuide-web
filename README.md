@@ -1,4 +1,4 @@
-# Ukrayna
+# UkraynaGuide - WEB
 
 Bu proje, Ukrayna hakkında temel bilgiler sunan ve HTML, CSS ve JavaScript kullanarak geliştirilmiş bir web sitesidir. Proje, web geliştirme becerilerini egzersiz yapmak ve temel web teknolojilerini kullanarak yetenekleri sergilemek amacıyla oluşturulmuştur.
 
