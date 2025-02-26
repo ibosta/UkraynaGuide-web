@@ -35,6 +35,4 @@ Web sitesi, Ukrayna'nın coğrafyası, tarihi, kültürü ve turistik yerleri gi
 
 ## Ekran Görüntüleri
 
-Buraya projenizin ekran görüntülerini ekleyebilirsiniz. (Örneğin, `assets` klasörüne görseller ekleyebilir ve aşağıda Markdown ile bunları gösterebilirsiniz.)
-
 ![Ekran Görüntüsü](https://i.imgur.com/hr5kzyO.png)
